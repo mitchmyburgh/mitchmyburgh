@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitchmyburgh&label=Profile%20views&color=0e75b6&style=flat" alt="mitchmyburgh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mitchmyburgh" target="blank"><img src="https://img.shields.io/twitter/follow/mitchmyburgh?logo=twitter&style=for-the-badge" alt="mitchmyburgh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mitchmyburgh" target="blank"><img src="https://img.shields.io/twitter/follow/mitchmyburgh?logo=twitter" alt="mitchmyburgh" /></a> </p>
 
 - 🔭 I’m currently working on **Spinach Pay**
 
