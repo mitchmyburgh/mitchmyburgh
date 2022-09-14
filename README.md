@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mitch Myburgh</h1>
 <h3 align="center">A Senior Software Developer & Team Lead from South Africa</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mitchmyburgh&label=Profile%20views&color=0e75b6&style=flat" alt="mitchmyburgh" /><span width=10></span><a href="https://twitter.com/mitchmyburgh" target="blank"><img src="https://img.shields.io/twitter/follow/mitchmyburgh?logo=twitter" alt="mitchmyburgh" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mitchmyburgh&label=Profile%20views&color=0e75b6&style=flat" alt="mitchmyburgh" /><br/><a href="https://twitter.com/mitchmyburgh" target="blank"><img src="https://img.shields.io/twitter/follow/mitchmyburgh?logo=twitter" alt="mitchmyburgh" /></a> </p>
 
 - 🔭 I’m currently working on **Spinach Pay**
 
