@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mitchmyburgh.com/](https://mitchmyburgh.com/)
 
-- 💬 Ask me about **Next.js, Javscript, TypeScript, Fintech, Marketplaces.**
+- 💬 Ask me about **Next.js, JavaScript, TypeScript, Fintech, Marketplaces.**
 
 - 📫 How to reach me **mitchmyburgh@gmail.com**
 
