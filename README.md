@@ -39,7 +39,7 @@ I have worked with some incredible people over the years, and would love to cont
   </tr>
   <tr>
     <td valign="center"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQGFfJCQgHpSWA/profile-displayphoto-shrink_200_200/0/1517760874361?e=1668643200&v=beta&t=KvD0nSLWyQlBP6oQOTzQIYeLqlzfa5SItfrydyMFH3E" alt="Nate" width="96" height="96"/></td>
-    <td valign="center">Wojciech Lubojański</td>
+    <td valign="center">Nate Lassiter</td>
     <td valign="center" width=200>A design genius who is the product designer we worked with to build a telemedicine application, cannabis marketplace and fintech payment company!</td>
     <td valign="center"></td>
     <td valign="center"><a href="https://www.linkedin.com/in/natelassiter/" target="_blank" rel="noreferrer" valign=center><img src="linkedin-box-fill.png" alt="LinkedIn" width="24" height="24"/> </a></td>
