@@ -35,7 +35,7 @@ Coding extraordinaire, together we have built everything from telemedicine appli
     <td valign="center"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQEE2BWQfK5n4A/profile-displayphoto-shrink_200_200/0/1647533280127?e=1668643200&v=beta&t=2ZY9-KHmBW2z8qqYpSv6AdCAzvA5Lg997kVQ69_uBdA" alt="Wojtek" width="60" height="60"/></td>
     <td valign="center">Wojtek Lubojanski</td>
     <td valign="center" width=200>Coding extraordinaire, together we have built everything from telemedicine applications to cannabis marketplaces to fintech payment companies!</td>
-    <td valign="center"><a href="[https://www.linkedin.com/in/wojciechlubojanski/](https://github.com/lubojanski)" target="_blank" rel="noreferrer" valign=center><img src="github-fill.png" alt="Github" width="24" height="24"/> </a></td>
+    <td valign="center"><a href="https://github.com/lubojanski" target="_blank" rel="noreferrer" valign=center><img src="github-fill.png" alt="Github" width="24" height="24"/> </a></td>
     <td valign="center"><a href="https://www.linkedin.com/in/wojciechlubojanski/" target="_blank" rel="noreferrer" valign=center><img src="linkedin-box-fill.png" alt="LinkedIn" width="24" height="24"/> </a></td>
   </tr>
 </table>
