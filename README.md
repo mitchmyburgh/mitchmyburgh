@@ -29,5 +29,5 @@
 
 <h3 align="left">My Team:</h3>
 <div>
-<img src="https://media-exp1.licdn.com/dms/image/C4E03AQEE2BWQfK5n4A/profile-displayphoto-shrink_200_200/0/1647533280127?e=1668643200&v=beta&t=2ZY9-KHmBW2z8qqYpSv6AdCAzvA5Lg997kVQ69_uBdA" alt="Wojtek" width="40" height="40"/> <img src="github-fill.png" alt="Wojtek" width="40" height="40"/> 
+<img src="https://media-exp1.licdn.com/dms/image/C4E03AQEE2BWQfK5n4A/profile-displayphoto-shrink_200_200/0/1647533280127?e=1668643200&v=beta&t=2ZY9-KHmBW2z8qqYpSv6AdCAzvA5Lg997kVQ69_uBdA" alt="Wojtek" width="40" height="40"/> <img src="github-fill.png" alt="Github" width="24" height="24"/> 
 </div>
