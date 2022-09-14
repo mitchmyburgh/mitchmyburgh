@@ -29,6 +29,8 @@
 
 <h3 align="left">My Team:</h3>
 
+<h4 align="left">ojtek Lubojanski</h4>
+Coding extraordinaire, together we have built everything from telemedicine applications to cannabis marketplaces to fintech payment companies!
 <table>
   <tr>
     <td valign="center"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQEE2BWQfK5n4A/profile-displayphoto-shrink_200_200/0/1647533280127?e=1668643200&v=beta&t=2ZY9-KHmBW2z8qqYpSv6AdCAzvA5Lg997kVQ69_uBdA" alt="Wojtek" width="60" height="60"/></td>
@@ -37,9 +39,5 @@
     </td>
     <td valign="center"><a href="https://www.linkedin.com/in/wojciechlubojanski/" target="_blank" rel="noreferrer" valign=center><img src="linkedin-box-fill.png" alt="LinkedIn" width="24" height="24"/> </a></td>
   </tr>
-  <tr>
-  <td valign="center">
-    Coding extraordinaire, together we have built everything from telemedicine applications to cannabis marketplaces to fintech payment companies!
-    </td>
-  </tr>
+ 
 </table>
