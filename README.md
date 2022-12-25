@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **game development with a custom TypeScript Engine**
 
-- 👯 I’m looking to collaborate on [Game Jams](https://madebymitch.itch.io/)
+- 👯 I’m looking to collaborate on [Game Jams](https://madebym.itch.io/)
 
 - 👨‍💻 All of my projects are available at [https://mitchmyburgh.com/](https://mitchmyburgh.com/)
 
