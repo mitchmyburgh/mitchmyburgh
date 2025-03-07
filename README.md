@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitchmyburgh&label=Profile%20views&color=0e75b6&style=flat" alt="mitchmyburgh" /><br/><a href="https://twitter.com/mitchmyburgh" target="blank"><img src="https://img.shields.io/twitter/follow/mitchmyburgh?logo=twitter" alt="mitchmyburgh" /></a> </p>
 
-- 🔭 I’m currently working at **RapidDeploy**
+- 🔭 I’m currently working at [**NPC Labs**](https://npclabs.org/)
 
 - 🌱 I’m currently learning **game development with a custom TypeScript Engine**
 
