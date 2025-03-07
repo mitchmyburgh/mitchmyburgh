@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [**NPC Labs**](https://npclabs.org/)
 
-- 🌱 I’m currently learning **game development with a custom TypeScript Engine**
+- 🌱 I’m currently learning **game development with a custom Golang Engine**
 
 - 👯 I’m looking to collaborate on [Game Jams](https://madebym.itch.io/)
 
